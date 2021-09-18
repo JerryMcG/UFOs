@@ -8,6 +8,7 @@ When someone arrives on Dana's page, we can see the static information across th
 <img src = 'static/images/table.png' /> 
 
 This table initially shows all the information which Dana has gathered in the background, but what if the user wants to see something specific? for this, we have added Filters where a user can select a particular date, city, state, country, shape of all sightings. 
+
 <img src = 'static/images/filters.png' />
 
 To use these filters, a user will enter the specific information and hit enter, then the table will be filtered accordingly:
